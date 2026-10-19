@@ -43,9 +43,15 @@ After opting out, you may receive a final confirmation message confirming your u
 
 6. Information Sharing and Disclosure
 
-Signature Wellness PA does not sell, rent, or share your mobile information with third parties or affiliates for marketing or promotional purposes.
+SMS and Consumer Data Sharing
+We do not share SMS content or consumer data with third parties for marketing or unrelated business purposes. Consumer data, including mobile information, will not be transferred, shared, sold, or disclosed to external organizations except as required by law or to strictly necessary service providers acting on our behalf to support message delivery and related services.
 
-We may share information with service providers that assist us in delivering SMS communications, provided they are contractually obligated to protect your information and use it only for authorized purposes.
+Service Providers
+Any service providers that receive consumer data on our behalf are authorized to use it only for the limited purpose of providing those services to us and are prohibited from using or disclosing it for any other purpose.
+
+Contact Information
+If you have questions about our messaging practices or this privacy policy, please contact the message sender using the contact information provided on the website or in the message you received.
+
 
 7. Data Security
 
